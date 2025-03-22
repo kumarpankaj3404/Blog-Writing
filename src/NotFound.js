@@ -6,7 +6,7 @@ function NotFound() {
     <div className='notFound'>
         <h2>Sorry</h2>
         <p>The page does't exist</p>
-        <Link to='/'>Go back to home page</Link>
+        <Link to='/Dojo-blog/'>Go back to home page</Link>
     </div>
   )
 }

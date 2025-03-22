@@ -21,7 +21,7 @@ const Create = () => {
     }).then(()=>{
       setLoading(false);
       // history.go(-1); // To go one page back
-      history.push('/');
+      history.push('/Dojo-blog/');
     })
   }
   
